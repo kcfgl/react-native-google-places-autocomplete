@@ -16,6 +16,7 @@ import {
 } from 'react-native';
 import Qs from 'qs';
 import debounce from 'lodash.debounce';
+import EvilIcon from 'react-native-vector-icons/EvilIcons';
 
 const WINDOW = Dimensions.get('window');
 
